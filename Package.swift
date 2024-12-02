@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "tpack",
     dependencies: [
-        .package(url: "https://github.com/Misha-Artemiev/systemify.git", branch: "release"),
+        .package(url: "https://github.com/misha-artemiev/systemify.git", branch: "release"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
