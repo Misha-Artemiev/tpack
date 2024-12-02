@@ -1,0 +1,15 @@
+{
+  "originHash" : "e20dfcab592907fbe7fbef14e1b74228ca7e5e137ea5ddd7566ccd3ad20f2a0e",
+  "pins" : [
+    {
+      "identity" : "systemify",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Misha-Artemiev/systemify.git",
+      "state" : {
+        "branch" : "release",
+        "revision" : "acc1a2fa8ddd41d1bcd9021fe43ecc77785f804f"
+      }
+    }
+  ],
+  "version" : 3
+}
